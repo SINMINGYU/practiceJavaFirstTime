@@ -12,5 +12,8 @@ public class Main {
 
         i = 0;
         System.out.println("i = " + i);
+
+        i = 125;
+        System.out.println("i = " + i);
     }
 }
